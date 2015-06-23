@@ -25,6 +25,11 @@ PIC Bootloader
 -----------------
 The PIC18F27J53 must be programmed with the Pinguino Bootloader as described in the Pinguino [Basics](http://wiki.pinguino.cc/index.php/Basics#Bootloader) page.
 
+This project uses Bootloader_v4.14_18f27j53_X8MHz.hex.
+
+Testing
+-------
+
 Design Software
 -----------------
 This project was designed with [Eagle](http://www.cadsoftusa.com/) 7.2.0, [Sketchup](http://www.sketchup.com/) 15.3.331 and [EagleUp](http://eagleup.wordpress.com) 4.5.
