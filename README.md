@@ -10,6 +10,11 @@ The picstick_27j53 is a small PCB that can be connected directly into a USB conn
 
 The picstick_27j53 was created to add to the ever growing choice of PIC alternatives to Arduino. There are no surface mount components, so the picstick_27j53 is easy to build.
 
+Pinout
+-------
+
+![Pinout](https://github.com/kaza007/picstick_27j53/blob/master/picstick_27j53_v1_pinout.jpg)
+
 [Construction](https://github.com/kaza007/picstick_27j53/blob/master/construction)
 --------------
 
