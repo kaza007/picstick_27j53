@@ -1,6 +1,8 @@
 # picstick_27j53
 PIC18F27J53 Pinguino compatible USB stick
 
+![Top View](https://github.com/kaza007/picstick_27j53/blob/master/picstick_27j53_v1_top.jpg)
+
 Background
 ------------
 
