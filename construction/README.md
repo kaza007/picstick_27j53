@@ -1,9 +1,11 @@
 # picstick_27j53
 PIC18F27J53 Pinguino compatible USB stick
 
+![Completed PCB](https://github.com/kaza007/picstick_27j53/blob/master/construction/picstick_27j53_v1_construction_final.jpg)
+
 Construction
 -----------------
-[Components](https://github.com/kaza007/picstick_27j53/blob/master/construction/picstick_27j53_v1_components.jpg) are to be placed and soldered in the following order to make construction as easy as possible. [Completed PCB](https://github.com/kaza007/picstick_27j53/blob/master/construction/picstick_27j53_v1_construction_final.jpg)
+[Components](https://github.com/kaza007/picstick_27j53/blob/master/construction/picstick_27j53_v1_components.jpg) are to be placed and soldered in the following order to make construction as easy as possible. 
 
 ![PartsOrder](https://github.com/kaza007/picstick_27j53/blob/master/construction/picstick_27j53_v1_construction.jpg)
 
