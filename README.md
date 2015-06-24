@@ -29,6 +29,20 @@ This project uses Bootloader_v4.14_18f27j53_X8MHz.hex.
 
 Testing
 -------
+Blinking led test, blink.pde
+
+##
+	void setup()
+	{  
+		pinMode(USERLED, OUTPUT);
+	}
+ 
+	void loop()
+
+	{
+		toggle(USERLED);
+		delay(500);
+	}
 
 Design Software
 -----------------
